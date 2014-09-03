@@ -1,0 +1,17 @@
+*****
+Hello
+*****
+
+:date: 2014-09-03
+:category: Meta
+
+Hello!
+
+This is going to be my notebook for writing out thoughts, opinions, and so
+on while I investigate a variety of technologies and start to do things with
+them.
+
+At the start, these technologies will include a lot of stuff related to
+linked data, the semantic web, ontologies and similar things. I will also be
+looking at how those technologies are used by news organizations (such as the
+BBC, the New York Times and Thompson Reuters).
