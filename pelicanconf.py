@@ -40,7 +40,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-PLUGIN_PATH = '../pelican-plugins/'
+PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search',
            'neighbors', 'related_posts', 'share_post',
            'multi_part']
